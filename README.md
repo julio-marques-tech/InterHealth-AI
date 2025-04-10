@@ -63,7 +63,8 @@ bash
 Copiar
 Editar
 curl -X GET http://127.0.0.1:5000/patients
-📁 Project Structure
+
+## 📁 Project Structure
 graphql
 Copiar
 Editar
@@ -74,6 +75,7 @@ InterHealth-AI/
 ├── frontend/              # (To be implemented)
 ├── requirements.txt       # Python dependencies
 └── README.md
+---
 ⚖️ License and Intellectual Use
 This project is licensed under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
